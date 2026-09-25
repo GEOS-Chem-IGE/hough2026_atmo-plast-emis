@@ -1,0 +1,9 @@
+[submodule "sims"]
+	path = sims
+	url = https://github.com/GEOS-Chem-IGE/hough2026_atmo-plast-emis_sims.git
+[submodule "harmonize"]
+	path = harmonize
+	url = https://github.com/GEOS-Chem-IGE/hough2026_atmo-plast-emis_harmonize.git
+[submodule "figures"]
+	path = figures
+	url = https://github.com/GEOS-Chem-IGE/hough2026_atmo-plast-emis_figures.git
