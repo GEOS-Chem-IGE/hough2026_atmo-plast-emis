@@ -68,6 +68,11 @@
   "title": "Reduced global atmospheric microplastic emissions from size-harmonized observations (Hough et al. 2026)",
   "related_identifiers": [
     {
+      "identifier": "https://https://github.com/GEOS-Chem-IGE/hough2026_atmo-plast-emis/tree/1.0.0",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    },
+    {
       "identifier": "https://doi.org/10.5281/zenodo.22933613",
       "relation": "hasPart",
       "resource_type": "software"
@@ -88,7 +93,7 @@
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://doi.org/10.5281/zenodo.21065264",
+      "identifier": "https://doi.org/10.5281/zenodo.22957077",
       "relation": "hasPart",
       "resource_type": "software"
     }

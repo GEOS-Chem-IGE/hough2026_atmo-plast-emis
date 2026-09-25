@@ -11,7 +11,7 @@ The resources are:
 2. **Dataset** of raw simulation outputs: https://doi.org/10.5281/zenodo.22925451
 3. **Code** to size-harmonize atmospheric microplastic observations collected from the literature and constrain the simulation outputs to match the size-harmonized observations: https://doi.org/10.5281/zenodo.22947485
 4. **Dataset** of size-harmonized observations and constrained simulation outputs: https://doi.org/10.5281/zenodo.22946011
-5. **Code** to plot the paper figures: https://doi.org/10.5281/zenodo.21065264
+5. **Code** to plot the paper figures: https://doi.org/10.5281/zenodo.22957077
 
 The code resources can also be obtained by cloning the corresponding git repository and its submodules:
 
