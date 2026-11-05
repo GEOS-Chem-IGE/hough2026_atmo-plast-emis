@@ -93,7 +93,7 @@
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://doi.org/10.5281/zenodo.23056070",
+      "identifier": "https://doi.org/10.5281/zenodo.23976318",
       "relation": "hasPart",
       "resource_type": "software"
     }
