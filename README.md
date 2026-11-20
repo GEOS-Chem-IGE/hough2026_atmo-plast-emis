@@ -1,5 +1,5 @@
-Code and data for 'Reduced global atmospheric microplastic emissions from size-harmonized observations' (Hough et al., 2026)
-============================================================================================================================
+Code and data for "Reduced global atmospheric microplastic emissions from size-harmonized observations"
+=======================================================================================================
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23976867.svg)](https://doi.org/10.5281/zenodo.23976867)
 
